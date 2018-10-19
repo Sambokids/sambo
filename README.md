@@ -1,0 +1,2 @@
+# sambo
+GitHub Pages
